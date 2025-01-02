@@ -10,18 +10,18 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923444844060"
-global.ownername = "Qasim Ali"
+global.ownernomer = "5146863630"
+global.ownername = "black_girl"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
-global.location = "Pakistan, Karachi, Karachi"
+global.location = "canada, montreal, montreal"
 
-global.ownernumber = '923444844060'  //creator number
-global.ownername = 'Qasim Ali' //owner name
-global.botname = 'XeonBug-V8' //name of the bot
+global.ownernumber = '5146863630'  //creator number
+global.ownername = 'black_girl' //owner name
+global.botname = 'black_girl_bot' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
+global.packname = 'black_girl '
 global.author = 'GlobalTech\n\nContact: +923444844060'
 
 //console view/theme
@@ -32,7 +32,7 @@ global.wm = "Global Bot"
 global.link = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = "."
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
